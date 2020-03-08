@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(250, 207, 191);
+}
+.img{
+    opacity: 0.3;
+    position: absolute;
+    left:330px ;
+    top:100px ;
+}
+/* .img a:hover{
+    background-image: url(pic/profile.jpg);
+    size: 2000px;
+} */
+.summary{
+    position: relative;
+    right: 5px;
+    font-size:30px ;
+    font-family:impact ;
+
+    color: rgb(82, 19, 19);
+    font-weight: lighter;
+    font-style: italic;
+}
+.dif
+{font-size:20px ;
+    font-family:sans-serif ;
+    font-weight: bold;
+    font-style: italic;
+    color: navy;
+
+}
+.table{
+    background-color: chocolate;
+    position: relative;
+    left: 8px;
+    top: 80px;
+
+
+}
+.table2{
+    position: relative;
+    bottom: 530px;
+    left: 930px;
+    background-color: darksalmon;
+    color: navy;
+    font-size: 15px;
+    width: 350px;
+    height: 100px;
+}
+.qua{
+    font-family:impact ;
+    font-size:35px ;
+    color: rgb(82, 19, 19);
+    font-weight: lighter;
+    font-style: italic;
+    
+}
+.table3{
+    position: relative;
+    bottom: 520px;
+    left: 930px;
+    background-color: darksalmon;
+    color: navy;
+    font-size: 13px;
+    width: 350px;
+    height: 100px;
+}
+.table4{position: relative;
+    bottom: 510px;
+    left: 930px;
+    background-color: darksalmon;
+    color: navy;
+    font-size: 13px;
+    width: 350px;
+    height: 100px;
+
+}
+.index{
+    position: absolute;
+   
+    top: 750px;
+    
+  }
+  .index2{
+    position: absolute;
+    left: 93%;
+    top: 730px;
+    
+  }
+  
